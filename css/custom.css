@@ -1,0 +1,55 @@
+nav {
+    background-color: #000 ;
+}
+nav ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+body {
+    background-color: #F9FAFF;
+  }
+
+main {
+  flex: 1 0 auto;
+}
+
+.carousel:hover{
+  cursor: pointer;
+}
+
+.btn{
+  margin-bottom: 50px;
+  margin-top: 10px;
+  color: #000;
+  background-color: #fff;
+  border-radius: 3px;
+  border: 1px solid #fff;
+}
+
+.btn:hover{
+  color: #fff;
+  background-color: #000;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.att-row {
+  background-color: #fff;
+}
+
+.att-img {
+  width: 100%;
+  border-radius: 3px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.att-img:hover{
+  cursor: pointer;
+}
+
+.page-footer{
+  background-color: #000;
+}
